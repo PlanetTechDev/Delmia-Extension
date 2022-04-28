@@ -1,0 +1,134 @@
+* {
+     box-sizing: border-box;
+     
+}
+
+body {
+     background-color: #E6EEFF;
+     margin: 0;
+     width: 100%
+}
+
+html, body {
+  overflow-x: initial;
+}
+
+.carrer-wrapper {
+     width: 800px;
+     height: 400px;
+     margin-left: 20px;
+     animation: slidein-up 1200ms;
+}
+
+.career-heading {
+     color: #001B43;
+     font-weight: 600;
+     font-size: 50px;
+}
+
+.career-paragraph {
+     font-size: 20px;
+     color: #001b43c7;
+     font-weight: 500;
+}
+
+.Career-Btn {
+     padding: 18px 22px;
+     background-color: #001B43;
+     border-radius: 8px;
+     color: white;
+     text-decoration: none;
+     font-size: 17px;
+     transition: 300ms ease;
+     font-weight: 500;
+     letter-spacing: 1px;
+     
+}
+
+.Career-Btn:hover {
+     background-color: #002e79;
+}
+
+i {
+     color: #001B43;
+}
+
+.uil {
+     
+}
+
+.field {
+     font-style: normal;
+     font-size: 15px;
+}
+
+.jobopenings-wrapper {
+     width: 1200px;
+     height: 800px;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.jo {
+     color: #001B43;
+     text-align: center;
+     font-weight: 600;
+}
+
+.jobopenings {
+     width: 1100px;
+     height: 700px;
+     margin-left: auto;
+     margin-right: auto;
+     display: flex;
+     flex-direction: column;
+}
+
+.btn-wrapper {
+     margin-left: auto;
+     margin-right: auto;
+}
+.opening1 {
+     background-color: aliceblue;
+     width: 300px;
+     height: 570px;
+     border-radius: 25px;
+     
+
+}
+
+.job-tittle {
+     color: #002e79;
+     margin-left: 10px;
+}
+
+.salaryestimate {
+     color: #002e79;
+     margin-left: 10px;
+     margin-top: -20px;
+}
+.Perks {
+     color: #000000;
+     margin-left: 10px;
+}
+.desc {
+     color: #001B43;
+     margin-left: 10px;
+}
+
+
+.apply-btn {
+     padding: 10px 55px;
+     background-color: #4b90ff;
+     color: white;
+     text-align: center;
+     margin-left: 10px;
+     text-decoration: none;
+     border-radius: 50px;
+     transition: 300ms ease;
+
+}
+
+.apply-btn:hover {
+     background-color: #002e79;
+}
